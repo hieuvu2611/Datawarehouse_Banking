@@ -62,7 +62,7 @@ Flow bao gồm 3 Processor chính
 ## Processor detail
 
 Configuration for GetFile processor
-![alt text](images/GetFile_config.png)
+![alt text](images/Getfile_config.png)
 
 Configuration for UpdateAttributes processor
 ![alt text](images/UpdateAttributes_config.png)
